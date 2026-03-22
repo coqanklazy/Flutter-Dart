@@ -44,8 +44,10 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+
+# Agent and Documentation
 .agent/
 .editorconfig
-ERRORS.md 
-GEMINI.md 
+ERRORS.md
+GEMINI.md
 docs/
